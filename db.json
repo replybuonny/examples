@@ -1,8 +1,8 @@
 {
   "falha_regra_negocio": [
     {
-      "data": null,          
-      "error_code": 20404
+      "data": {},
+      "error_code": "20404"
       "error_message": "Cidade não encontrada."
     }
   ]
